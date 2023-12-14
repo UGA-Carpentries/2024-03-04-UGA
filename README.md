@@ -6,6 +6,7 @@ This repository is for a 2-day workshop hosted at the University of Georgia over
 Open to all UGA undergraduate and graduate students. This 1-credit course can be completed under either of these course IDs:
 
 BINF 7960: Software Carpentries for Scientific Programming (CRN: 68278)
+
 BINF 8960: Advanced Software Carpentries for Scientific Programming (CRN: 68034)
 
 Note that BINF 8960 has a capstone project requirement that will be submitted within 2 weeks of finishing the course. It could be Unix/R code you write to carry out an analysis or generate figures, and a 0.5-1 page summary about what the code does. 
